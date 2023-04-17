@@ -1,1 +1,1 @@
-Learning how to configure Uncomplicated Firewall on Ubuntu Server
+This section, I'm learning how to Configure Uncomplicated Firewall (UFW) on Ubuntu server
